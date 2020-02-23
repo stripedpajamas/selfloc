@@ -1,0 +1,19 @@
+{
+  "name": "selfloc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colorette": "^1.1.0",
+    "random-number-csprng-2": "^2.0.0"
+  },
+  "devDependencies": {
+    "standard": "^14.3.1"
+  }
+}
